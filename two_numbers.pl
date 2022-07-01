@@ -1,0 +1,1 @@
+write('Write a number: '),
